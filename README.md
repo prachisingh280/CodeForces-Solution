@@ -6,17 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 77 | 16 |
+| 78 | 16 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (1)
-- [brute force](#brute-force) (14)
+- [brute force](#brute-force) (15)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (19)
-- [data structures](#data-structures) (1)
+- [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (3)
 - [games](#games) (4)
@@ -41,6 +41,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1380A | [Three Indices](https://codeforces.com/contest/1380/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1380/A%20-%20Three%20Indices/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
 | 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.cpp) |
 | 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.cpp) |
@@ -91,6 +92,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1380A | [Three Indices](https://codeforces.com/contest/1380/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1380/A%20-%20Three%20Indices/solution.cpp) |
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
 
 ### dfs and similar
