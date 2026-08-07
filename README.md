@@ -6,14 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 81 | 16 |
+| 82 | 17 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (1)
-- [brute force](#brute-force) (15)
+- [bitmasks](#bitmasks) (1)
+- [brute force](#brute-force) (16)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (19)
 - [data structures](#data-structures) (2)
@@ -37,6 +38,12 @@
 |---|---------|------------|----------|
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.cpp) |
+
 ### brute force
 
 | # | Problem | Difficulty | Solution |
@@ -47,6 +54,7 @@
 | 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.cpp) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.cpp) |
 | 1789A | [Serval and Mocha's Array](https://codeforces.com/contest/1789/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1789/A%20-%20Serval%20and%20Mocha's%20Array/solution.cpp) |
+| 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.cpp) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
