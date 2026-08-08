@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 83 | 17 |
+| 84 | 17 |
 
 ---
 
@@ -19,12 +19,12 @@
 - [constructive algorithms](#constructive-algorithms) (20)
 - [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (1)
-- [dp](#dp) (3)
+- [dp](#dp) (4)
 - [games](#games) (5)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (36)
 - [implementation](#implementation) (15)
-- [math](#math) (46)
+- [math](#math) (47)
 - [number theory](#number-theory) (14)
 - [sortings](#sortings) (9)
 - [strings](#strings) (7)
@@ -114,6 +114,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1883/C%20-%20Raspberries/solution.cpp) |
 | 2210A | [A Simple Sequence](https://codeforces.com/contest/2210/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/2210/A%20-%20A%20Simple%20Sequence/solution.cpp) |
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
@@ -231,6 +232,7 @@
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
 | 1877A | [Goals of Victory](https://codeforces.com/contest/1877/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1877/A%20-%20Goals%20of%20Victory/solution.cpp) |
 | 1878C | [Vasilije in Cacak](https://codeforces.com/contest/1878/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1878/C%20-%20Vasilije%20in%20Cacak/solution.cpp) |
+| 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1883/C%20-%20Raspberries/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 2211A | [Antimedian Deletion](https://codeforces.com/contest/2211/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/2211/A%20-%20Antimedian%20Deletion/solution.cpp) |
