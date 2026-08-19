@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 96 | 18 |
+| 97 | 18 |
 
 ---
 
@@ -14,10 +14,10 @@
 
 - [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (2)
-- [bitmasks](#bitmasks) (1)
+- [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (18)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (23)
+- [constructive algorithms](#constructive-algorithms) (24)
 - [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (5)
@@ -25,7 +25,7 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (45)
 - [implementation](#implementation) (18)
-- [math](#math) (52)
+- [math](#math) (53)
 - [number theory](#number-theory) (15)
 - [sortings](#sortings) (12)
 - [strings](#strings) (8)
@@ -50,6 +50,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.cpp) |
 | 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.cpp) |
 
 ### brute force
@@ -88,6 +89,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1537B | [Bad Boy](https://codeforces.com/contest/1537/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1537/B%20-%20Bad%20Boy/solution.cpp) |
+| 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.cpp) |
 | 1665B | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1665/B%20-%20Array%20Cloning%20Technique/solution.cpp) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.cpp) |
 | 1715B | [Beautiful Array](https://codeforces.com/contest/1715/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1715/B%20-%20Beautiful%20Array/solution.cpp) |
@@ -234,6 +236,7 @@
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
 | 1537B | [Bad Boy](https://codeforces.com/contest/1537/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1537/B%20-%20Bad%20Boy/solution.cpp) |
 | 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
+| 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.cpp) |
 | 1582B | [Luntik and Subsequences](https://codeforces.com/contest/1582/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1582/B%20-%20Luntik%20and%20Subsequences/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
 | 1607B | [Odd Grasshopper](https://codeforces.com/contest/1607/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/prachisingh280/CodeForces-Solution/blob/HEAD/1607/B%20-%20Odd%20Grasshopper/solution.cpp) |
